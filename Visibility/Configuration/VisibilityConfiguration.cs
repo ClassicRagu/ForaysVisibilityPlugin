@@ -79,6 +79,8 @@ public partial class VisibilityConfiguration: IPluginConfiguration
 		46, // Ocean Fishing
 		47, // The Diadem
 		48, // Save The Queen Field Zones
+		52, // DRN
+		53, // DRS
 		60, // Stellar Exploration
 		61, // Occult Crescent
 	];
