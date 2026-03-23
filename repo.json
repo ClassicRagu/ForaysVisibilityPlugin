@@ -5,15 +5,15 @@
     "InternalName": "ForaysVisibility",
     "Punchline": "Allows you to hide players, pets, chocobos and minions.",
     "Description": "A fork of the Visibility plugin that allows for its use in foray zones",
-    "AssemblyVersion": "1.1.9.4",
-    "TestingAssemblyVersion": "1.1.9.4",
+    "AssemblyVersion": "1.1.9.5",
+    "TestingAssemblyVersion": "1.1.9.5",
     "RepoUrl": "https://github.com/ClassicRagu/ForaysVisibilityPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "Tags": ["Blacklist", "Void", "VoidList", "Ban", "Hide", "Visibility", "QoL"],
     "IconUrl": "https://raw.githubusercontent.com/ClassicRagu/ForaysVisibilityPlugin/master/res/icon.png",
-    "DownloadLinkInstall": "https://github.com/ClassicRagu/ForaysVisibilityPlugin/releases/download/v1.1.9.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ClassicRagu/ForaysVisibilityPlugin/releases/download/v1.1.9.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ClassicRagu/ForaysVisibilityPlugin/releases/download/v1.1.9.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ClassicRagu/ForaysVisibilityPlugin/releases/download/v1.1.9.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ClassicRagu/ForaysVisibilityPlugin/releases/download/v1.1.9.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ClassicRagu/ForaysVisibilityPlugin/releases/download/v1.1.9.5/latest.zip"
   }
 ]
