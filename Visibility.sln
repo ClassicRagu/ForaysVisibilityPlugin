@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visibility", "Visibility\Visibility.csproj", "{4D2166B1-F610-4BCE-B74E-B69FBE2CA766}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForaysVisibility", "Visibility\ForaysVisibility.csproj", "{4D2166B1-F610-4BCE-B74E-B69FBE2CA766}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
