@@ -2,7 +2,7 @@
   {
     "Author": "SheepGoMeh",
     "Name": "Visibility (Forays Version)",
-    "InternalName": "Visibility",
+    "InternalName": "ForaysVisibility",
     "Punchline": "Allows you to hide players, pets, chocobos and minions.",
     "Description": "A fork of the Visibility plugin that allows for its use in foray zones",
     "AssemblyVersion": "1.1.9.4",
