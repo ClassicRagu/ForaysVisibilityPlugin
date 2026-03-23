@@ -1,10 +1,10 @@
 {
   "Author": "SheepGoMeh",
-  "Name": "Visibility",
+  "Name": "Visibility (Forays Version)",
   "InternalName": "Visibility",
-  "Description": "Allows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
+  "Description": "A fork of the Visibility plugin that allows for its use in foray zones",
   "Punchline": "Allows you to hide players, pets, chocobos and minions.",
   "Tags": ["Blacklist", "Void", "VoidList", "Ban", "Hide", "Visibility", "QoL"],
-  "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
+  "RepoUrl": "https://github.com/ClassicRagu/ForaysVisibilityPlugin",
   "ApplicableVersion": "any"
 }
